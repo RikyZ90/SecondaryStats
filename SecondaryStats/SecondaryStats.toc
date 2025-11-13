@@ -1,0 +1,8 @@
+## Interface: 120000
+## Title: SecondaryStats
+## Notes: Display secondary stats with customizable order
+## Author: YourName
+## Version: 1.5.0
+## SavedVariables: SecondaryStatsDB
+
+SecondaryStats.lua
